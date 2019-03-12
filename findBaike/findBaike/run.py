@@ -37,4 +37,5 @@ if __name__ == '__main__':
     #     print(phrase)
     #     if not phrase:
     #         break
+    #         print(1)
 
